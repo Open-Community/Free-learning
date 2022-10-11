@@ -1,1 +1,34 @@
-IyMgSG93IEkgZWFybmVkIG15IHBvc3RtYW4gU3R1ZGVudCBFeHBlcnQgQmFkZ2UKCgojIyMgQWJvdXQgUG9zdG1hbgoKSW4gdG9kYXkncyB3b3JsZCB3ZSBhcmUgdG90YWxseSBkZXBlbmRlbnQgb24gQVBJcyAoQXBwbGljYXRpb24gUHJvZ3JhbW1pbmcgSW50ZXJmYWNlcyksIHdlYXRoZXIgd2Ugd2FudCB0byBib29rIGEgY2FiIG9yIHNob3AgZm9yIHNvbWV0aGluZyBvbmxpbmUsIGV2ZXJ5IHRhc2sgaGFwcGVucyB2aWEgQVBJcyBhcyBpdCBoZWxwcyB0aGUgY2xpZW50LXNpZGUgYXBwbGljYXRpb24gKHN1Y2ggYXMgd2Vic2l0ZXMsIG1vYmlsZSBhcHBzLCBldGMuKSB0byBpbnRlcmFjdCB3aXRoIHRoZSBzZXJ2ZXIgYW5kIHBvc3RtYW4gaXMgYSB0b29sIChvbmUgb2YgdGhlIGJlc3QpIHdoaWNoIGlzIHVzZWQgdG8gdGVzdCBhbiBBUEkuIFdlIGNhbiBzZW5kIHJlcXVlc3RzLCB3cml0ZSB0ZXN0cyBhbmQgZXZlbiBhZGQgc2NyaXB0cyBpbiBwb3N0bWFuIHRvIHRlc3QgdGhlIGJlaGF2aW9yIG9mIGFuIEFQSS4KCiMjIyMgU3R1ZGVudCBFeHBlcnQgQmFkZ2UgJiBIb3cgdG8gZWFybiBpdD8KClRvIGJlIGhvbmVzdCB0aGlzIGJhZGdlIGlzIGp1c3QgYSBzd2FnIHRvIHNob3djYXNlIHRoYXQgeW91IGhhdmUgY29tcGxldGVkIGFuZCBzdWNjZXNzZnVsbHkgcGFzc2VkIHRoZSBleHBlcnQgdHJhaW5pbmcuClRvIGdldCB0aGlzIHRyYWluaW5nLCB5b3UgbmVlZCB0byBlbnJvbGwgaW4gdGhlIHN0dWRlbnQgZXhwZXJ0IHByb2dyYW0gW0xpbmtdKGh0dHBzOi8vd3d3LnBvc3RtYW4uY29tL3N0dWRlbnQtcHJvZ3JhbS8jc3R1ZGVudC1leHBlcnQtcHJvZ3JhbSkgYnkgc3VibWl0dGluZyBhIGdvb2dsZSBmb3JtLgpBZnRlciB0aGlzLCB5b3UgZ2V0IGEgd2VsY29tZSBlbWFpbCBmcm9tIHRoZSBwb3N0bWFuIHN0dWRlbnQgY29tbXVuaXR5IGFib3V0IHRoZSBuZXh0IHN0ZXBzIHRvIGZvbGxvdyBhbmQgdGhlIGludml0YXRpb24gdG8gam9pbiB0aGUgc3R1ZGVudCBjb21tdW5pdHkgb24gZGlzY29yZC4gTm93IHZpc2l0IHRoZSB0cmFpbmluZyBsaW5rIHRoZW4gZm9yayB0aGUgcHJvamVjdCB0byB5b3VyIG93biB3b3Jrc3BhY2UgYW5kIHN0YXJ0IHlvdXIgdHJhaW5pbmcuIEFzIHBlciBteSBleHBlcmllbmNlLCB0aGUgcmVzb3VyY2VzIGFyZSBlYXN5IHRvIHVuZGVyc3RhbmQgYW5kIGRvbid0IHdvcnJ5IGlmIHlvdSBhcmUgc3R1Y2sgc29tZXdoZXJlLCBzaW1wbHkgYXNrIHRoZSBjb21tdW5pdHkgYW5kIHRoZXkgYXJlIHJlYWR5IHRvIGhlbHAgeW91LiBBZnRlciB5b3UgaGF2ZSBjb21wbGV0ZWQgdGhlIHRyYWluaW5nLCBwYXNzZWQgYWxsIHRoZSB0ZXN0cywgYW5kIHN1Ym1pdHRlZCB5b3VyIGNvbGxlY3Rpb24gbGluay4gS3Vkb3Mgb3cgeW91IGhhdmUgYmVjb21lIGEgcG9zdG1hbiBzdHVkZW50IGV4cGVydCwgd2VsY29tZSB0byB0aGUgZXhwZXJ0J3MgY29tbXVuaXR5LCBhbmQgc2hhcmUgeW91ciBzd2FnIGJhZGdlIGxpbmsgd2l0aCBldmVyeW9uZS4gCgojIyMjICBSZW1lbWJlciB0aGlzIHRoaW5ncwojIyMjIFByYWN0aWNlIElzIEltcG9ydGFudAo+QWZ0ZXIgeW91IGhhdmUgZ290IHlvdXIgc3R1ZGVudCBleHBlcnQgYmFkZ2UsIHRoaXMgZG9lc24ndCBtZWFuIHRoYXQgeW91IGhhdmUgYmVjb21lIGFuIGV4cGVydCBpbiB1c2luZyBwb3N0bWFuIFNvIHRvIGJlY29tZSBhIHJlYWwgZXhwZXJ0IHlvdSBuZXh0IHRvIHByYWN0aWNlIGEgbG90IHVzaW5nIHBvc3RtYW4gYW5kIHRoZQpiZXN0IHdheSB0byBkbyBzbyBpcyB0byBqb2luIHRoZSBQb3N0bWFuIEJvb3RjYW1wLgpBbm90aGVyIGltcG9ydGFudCB0aGluZyBpcyB0aGF0IHlvdSBtdXN0IGhhdmUgYSBsaXR0bGUgYml0IG9mIGtub3dsZWRnZSBvZiBKYXZhU2NyaXB0LCBKU09OIChKYXZhU2NyaXB0IE9iamVjdCBOb3RhdGlvbiksIGFuZCBBUEksIGp1c3Qgd2F0Y2ggYSBmZXcgdHV0b3JpYWxzIG9uIFlvdVR1YmUgZm9yIGZyZWUgYW5kIHlvdSB3aWxsIGJlIHJlYWR5LgoKIyMjIE15IGpvdXJuZXkgaW4gdGhlIFBvc3RtYW4gU3R1ZGVudCBFeHBlcnQgUHJvZ3JhbQpbTXkgQmFkZ2VdKGh0dHBzOi8vYXBpLmJhZGdyLmlvL3B1YmxpYy9hc3NlcnRpb25zL05URGtwUjZCU1RHWFQ2WkNJLW1hQlE/aWRlbnRpdHlfX2VtYWlsPWFuaWtldG1pc2hyYTQ5MiU0MGdtYWlsLmNvbSkKSSBmYWNlZCBzb21lIGRpZmZpY3VsdGllcyAobGlrZS0gYnV0IGhvbmVzdGx5LCBJIGdvdCBzdHVjayBhdCBvbmUgdGVzdCBhcyBgYGAKSSBoYXZlIHVuY2hlY2tlZCBvbmUgcXVlcnkgcGFyYW1ldGVyCmBgYCkgIGluIHRoZSB0cmFpbmluZyBhcyB0aGUgY291cnNlIHdhcyBkZXNpZ25lZCBmb3IgYmVnaW5uZXIncyBhbHNvIG1vdmUgb3ZlciwgSSBoYXZlIGVub3VnaCBrbm93bGVkZ2UgYWJvdXQgcG9zdG1hbiBhcyBJIGhhdmUgdXNlZCBpdCBlYXJsaWVyIGZvciB0ZXN0aW5nIEFQSXMsIGJ1dCB0aGUgY29tbXVuaXR5IGlzIHNvIGZyaWVuZGx5IHRoYXQgaXQgaGVscGVkIG1lIHRvIGdldCBvdXQgb2YgaXQuCgojIyMgTGFzdGx5CgogU3RpbGwsIElmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMsIHlvdSBjYW4gcG9zdCBhIGNvbW1lbnQuCgojIyBDb25uZWN0ICAgIApbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVyLmNvbS9hbmlrZXRtaXNocmEwKQpbTGlua2VkSW5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9hbmlrZXRtaXNocmEwLykKW1lvdXR1YmVdKEh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2MvdHJpY2t5dGVjaG5vdGljZSkKW0dpdGh1Yl0oaHR0cHM6Ly9naXRodWIuY29tL0FuaWtldG1pc2hyYTApCg==
+# How I earned my postman Student Expert Badge
+
+
+### About Postman
+
+In today's world we are totally dependent on APIs (Application Programming Interfaces), weather we want to book a cab or shop for something online, every task happens via APIs as it helps the client-side application (such as websites, mobile apps, etc.) to interact with the server and postman is a tool (one of the best) which is used to test an API. We can send requests, write tests and even add scripts in postman to test the behavior of an API.
+
+#### Student Expert Badge & How to earn it?
+
+To be honest this badge is just a swag to showcase that you have completed and successfully passed the expert training.
+To get this training, you need to enroll in the student expert program [Link](https://www.postman.com/student-program/#student-expert-program) by submitting a google form.
+After this, you get a welcome email from the postman student community about the next steps to follow and the invitation to join the student community on discord. Now visit the training link then fork the project to your own workspace and start your training. As per my experience, the resources are easy to understand and don't worry if you are stuck somewhere, simply ask the community and they are ready to help you. After you have completed the training, passed all the tests, and submitted your collection link. Kudos ow you have become a postman student expert, welcome to the expert's community, and share your swag badge link with everyone. 
+
+####  Remember this things
+#### Practice Is Important
+>After you have got your student expert badge, this doesn't mean that you have become an expert in using postman So to become a real expert you next to practice a lot using postman and the
+best way to do so is to join the Postman Bootcamp.
+Another important thing is that you must have a little bit of knowledge of JavaScript, JSON (JavaScript Object Notation), and API, just watch a few tutorials on YouTube for free and you will be ready.
+
+### My journey in the Postman Student Expert Program
+[My Badge](https://api.badgr.io/public/assertions/NTDkpR6BSTGXT6ZCI-maBQ?identity__email=aniketmishra492%40gmail.com)
+I faced some difficulties (like- but honestly, I got stuck at one test as ```
+I have unchecked one query parameter
+```)  in the training as the course was designed for beginner's also move over, I have enough knowledge about postman as I have used it earlier for testing APIs, but the community is so friendly that it helped me to get out of it.
+
+### Lastly
+
+ Still, If you have any questions, you can post a comment.
+
+## Connect    
+[Twitter](https://twitter.com/aniketmishra0)
+[LinkedIn](https://www.linkedin.com/in/aniketmishra0/)
+[Youtube](Https://www.youtube.com/c/trickytechnotice)
+[Github](https://github.com/Aniketmishra0)
