@@ -1,1 +1,33 @@
-IyMgTm8gc291cmNlIGNvbnRyb2wgcHJvdmlkZXJzIHJlZ2lzdGVyZWQgaW4gVlMgY29kZQoKCiMjIyBHbyB0byB2cyBjb2RlLgoKT3BlbiBleHRlbnNpb25zIGFuZCBzZWFyY2ggCgpAYnVpbHRpbiBnaXQKCiFbU2NyZWVuc2hvdCAyMDIyLTEwLTA3IGF0IDEwLjQ5LjAyIFBNLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUxNjM1NjQ2MDIvWnA4VVNlYUI2LnBuZyBhbGlnbj0ibGVmdCIpCgoKTm93IHlvdSB3aWxsIHNlZSBhIGdpdCBleHRlbnNpb24gaW4gaXQuCgohW1NjcmVlbnNob3QgMjAyMi0xMC0wNyBhdCAxMC40OS4xMiBQTS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjY1MTYzNzA3MDEzL182THNNbXpabi5wbmcgYWxpZ249ImxlZnQiKQoKTm93IGNsaWNrIGVuYWJsZSBpZiBpdCBpcyBkaXNhYmxlZC4KCiFbU2NyZWVuc2hvdCAyMDIyLTEwLTA3IGF0IDEwLjQ5LjE5IFBNLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUxNjM3NTUzMjEvU3NObTYtaHZQLnBuZyBhbGlnbj0ibGVmdCIpCgpBbmQgdmlzaXQgc291cmNlIGNvbnRyb2wuIFlvdSB3aWxsIHNlZSB0aGUgY2xvbmUgcmVwb3NpdG9yeS4KCiFbU2NyZWVuc2hvdCAyMDIyLTEwLTA3IGF0IDEwLjUwLjA0IFBNLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjUxNjM3NzIzNDUvLWtROUQ2eGpnLnBuZyBhbGlnbj0ibGVmdCIpCgoKIyMjIFJlYWNoIE91dCB0byBtZSEKIyMjIyMjIERJU0NVU1MgQSBQUk9KRUNUIE9SIEpVU1QgV0FOVCBUTyBTQVkgSEk/ICBNWSBJTkJPWCBJUyBPUEVOIEZPUiBBTEwKCltMaW5rZWRJbl0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2FuaWtldG1pc2hyYTAvKQpbWW91dHViZV0oSHR0cHM6Ly93d3cueW91dHViZS5jb20vYy90cmlja3l0ZWNobm90aWNlKQpbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVyLmNvbS9hbmlrZXRtaXNocmEwKQpbR2l0aHViXShodHRwczovL2dpdGh1Yi5jb20vQW5pa2V0bWlzaHJhMCkKCg==
+# No source control providers registered in VS code
+
+
+### Go to vs code.
+
+Open extensions and search 
+
+@builtin git
+
+![Screenshot 2022-10-07 at 10.49.02 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665163564602/Zp8USeaB6.png align="left")
+
+
+Now you will see a git extension in it.
+
+![Screenshot 2022-10-07 at 10.49.12 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665163707013/_6LsMmzZn.png align="left")
+
+Now click enable if it is disabled.
+
+![Screenshot 2022-10-07 at 10.49.19 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665163755321/SsNm6-hvP.png align="left")
+
+And visit source control. You will see the clone repository.
+
+![Screenshot 2022-10-07 at 10.50.04 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665163772345/-kQ9D6xjg.png align="left")
+
+
+### Reach Out to me!
+###### DISCUSS A PROJECT OR JUST WANT TO SAY HI?  MY INBOX IS OPEN FOR ALL
+
+[LinkedIn](https://www.linkedin.com/in/aniketmishra0/)
+[Youtube](Https://www.youtube.com/c/trickytechnotice)
+[Twitter](https://twitter.com/aniketmishra0)
+[Github](https://github.com/Aniketmishra0)
+
